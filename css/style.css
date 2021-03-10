@@ -1,17 +1,48 @@
 body {
-  background-color: #ffebc8;
-  font-family: Georgia, serif;
+  background-color: #4c4446;
+  font-family: Tahoma, Georgia, serif;
   padding: 2em;
 }
 
+p {
+  color: white;
+}
+
 h1 {
-  color: #80AEFF;
+  color: #ffa100;
 }
 
 h2 {
-  color: #80AEFF;
+  color: #ffa100;
+  margin-top: 2.5em;
 }
 
 ul {
   margin: 1em;
+  color: white;
 }
+
+a {
+  color: #45d805;
+  /* font-weight: bold; */
+}
+
+.projects {
+  color: #ff8900;
+  font-weight: bold;
+  margin-top: 1.5em;
+}
+
+b.poste {
+  color: #ff8900;
+  font-weight: bold;
+  margin-top: 2em;
+}
+
+
+.job {
+  padding-bottom: 1em;
+}
+
+div.child { display: inline; }
+div.parent { width: 400px; margin: 0 auto; }
