@@ -1,40 +1,40 @@
 body {
-  background-color: #4c4446;
+  background-color: white;
   font-family: Tahoma, Georgia, serif;
   padding: 2em;
 }
 
 p {
-  color: white;
+  color: black;
 }
 
 h1 {
-  color: #ffa100;
+  color: #27AE60;
 }
 
 h2 {
-  color: #ffa100;
+  color: grey;
   margin-top: 2.5em;
 }
 
 ul {
   margin: 1em;
-  color: white;
+  color: black;
 }
 
 a {
-  color: #45d805;
+  color: black;
   /* font-weight: bold; */
 }
 
 .projects {
-  color: #ff8900;
+  color: grey;
   font-weight: bold;
   margin-top: 1.5em;
 }
 
 b.poste {
-  color: #ff8900;
+  color: grey;
   font-weight: bold;
   margin-top: 2em;
 }
