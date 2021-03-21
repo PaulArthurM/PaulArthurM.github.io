@@ -1,7 +1,8 @@
 body {
   background-color: white;
   font-family: Tahoma, Georgia, serif;
-  padding: 2em;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 
 p {
